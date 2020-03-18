@@ -1,0 +1,1 @@
+Sample data to be read and printed on console
